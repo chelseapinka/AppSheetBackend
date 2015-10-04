@@ -1,0 +1,14 @@
+dave has number 555 555-5555 and is 27 years old
+julia has number (555) 555-5555 and is 24 years old
+richard has number 555-555-5555 and is 20 years old
+robert has number (555) 555-5555 and is 21 years old
+santiago has number (555)555-5555 and is 25 years old
+
+Press any key to continue...
+
+
+
+
+
+
+
